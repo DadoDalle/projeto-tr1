@@ -145,7 +145,7 @@ No Linux (Ubuntu/Debian), a instalação é nativa via apt.
   * Luís Eduardo Dalle Molle
   * Ian Pereira
   * Gustavo de Paula
-  * Disciplina de Telefonia e Redes 1
+  
   * Universidade de Brasília (UnB)
 
 <!-- end list -->
