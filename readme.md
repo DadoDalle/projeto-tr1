@@ -141,7 +141,10 @@ No Linux (Ubuntu/Debian), a instalação é nativa via apt.
 
 ## 👨‍💻 Autores
 
-  * **Grupo de TR1**
+  * **Grupo Grupo Grupo**
+  * Luís Eduardo Dalle Molle
+  * Ian Pereira
+  * Gustavo de Paula
   * Disciplina de Telefonia e Redes 1
   * Universidade de Brasília (UnB)
 
