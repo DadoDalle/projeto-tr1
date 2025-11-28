@@ -1,6 +1,4 @@
-Com certeza. Aqui está o conteúdo **completo** do arquivo `README.md`, formatado dentro de um bloco de código único para você copiar e colar sem perder nada.
 
-````markdown
 # Simulador de Camada Física e Enlace - Telefonia e Redes 1
 
 Este projeto é um simulador didático das camadas **Física** e de **Enlace**, desenvolvido para a disciplina de Telefonia e Redes 1. O software permite visualizar o comportamento de sinais digitais e analógicos, aplicando técnicas de modulação, enquadramento, detecção e correção de erros, com visualização gráfica em tempo real.
@@ -53,7 +51,7 @@ Devido à dependência da biblioteca gráfica **GTK 3**, este projeto requer o a
 4. Atualize os pacotes do sistema rodando o comando:
    ```bash
    pacman -Syu
-````
+
 
 *(Se o terminal solicitar fechamento, feche-o e abra novamente para continuar).*
 
